@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Bicicleta GTS Aro 29 Freio a Disco Câmbio Traseiro",
+      "price": 939.0,
+      "image": "https://static.netshoes.com.br/produtos/bicicleta-gts-aro-29-freio-a-disco-cambio-traseiro-gtsm1-tsi-21-marchas-e-amortecedor-ride/02/ABS-0241-002/ABS-0241-002_zoom2.jpg?ims=326x"
+    },
+    {
+      "id": 2,
+      "title": "Bicicleta Aro 29 DROPP AÇO 21v Marchas com Freio a Disco",
+      "price": 639.0,
+      "image": "https://static.netshoes.com.br/produtos/bicicleta-aro-29-dropp-aco-21v-marchas-com-freio-a-disco-mecanico/44/JWY-0009-244/JWY-0009-244_zoom2.jpg?ims=326x"
+    },
+    {
+      "id": 3,
+      "title": "Bicicleta Aro 29 KSW 27V Kit Shimano Acera Freio Hidráulico",
+      "price": 1495.0,
+      "image": "https://static.netshoes.com.br/produtos/bicicleta-aro-29-ksw-xlt-21v-cambios-shimano-freio-a-disco-mecanico-com-suspensao/08/CGY-0004-108/CGY-0004-108_zoom2.jpg?ims=326x"
+    },
+    {
+      "id": 5,
+      "title": "Bicicleta Aro 29 GTA NX87 27v Shimano Altus/Acera",
+      "price": 1950.0,
+      "image": "https://static.netshoes.com.br/produtos/bicicleta-aro-29-ksw-xlt-cambios-shimano-21v-freios-hidraulico-pedivela-aluminio/08/CGY-0123-108/CGY-0123-108_zoom2.jpg?ims=326x"
+    },
+    {
+      "id": 6,
+      "title": "Bicicleta Giant Talon 2 26",
+      "price": 3900.0,
+      "image": "https://static.netshoes.com.br/produtos/bicicleta-giant-talon-2-26/08/601-9128-008/601-9128-008_zoom1.jpg?ims=326x"
+    },
+    {
+      "id": 4,
+      "title": "Bicicleta GTS Aro 29 Freio a Disco Shimano Hidráulico GTS M1 I-Vte",
+      "price": 4399.0,
+      "image": "https://static.netshoes.com.br/produtos/bicicleta-gts-aro-29-freio-a-disco-shimano-hidraulico-gts-m1-i-vte/18/ABS-0191-118/ABS-0191-118_zoom1.jpg?ims=326x"
+    }
+  ]
+}
